@@ -33,7 +33,7 @@ Create a simple command-line Python application that fetches and displays curren
 4. Replace the `API_KEY` value in the script with your actual API key.
 5. Run the script:
     ```bash
-    python weather_app.py
+    python cli_weather_app.py
     ```
 6. When prompted, enter a city name to get the weather information.
 
